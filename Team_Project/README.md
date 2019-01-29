@@ -1,1 +1,1 @@
-For more information view the [wiki](../wiki/Team_Project)
+For more information view the [wiki](https://github.com/benjamin-weinberg/SWD2018/wiki/Team_Project)
